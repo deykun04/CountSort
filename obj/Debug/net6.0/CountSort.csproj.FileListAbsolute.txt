@@ -1,0 +1,15 @@
+C:\Users\maslo\Desktop\test\CountSort\obj\Debug\net6.0\CountSort.csproj.AssemblyReference.cache
+C:\Users\maslo\Desktop\test\CountSort\obj\Debug\net6.0\CountSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maslo\Desktop\test\CountSort\obj\Debug\net6.0\CountSort.AssemblyInfoInputs.cache
+C:\Users\maslo\Desktop\test\CountSort\obj\Debug\net6.0\CountSort.AssemblyInfo.cs
+C:\Users\maslo\Desktop\test\CountSort\obj\Debug\net6.0\CountSort.csproj.CoreCompileInputs.cache
+C:\Users\maslo\Desktop\test\CountSort\bin\Debug\net6.0\CountSort.exe
+C:\Users\maslo\Desktop\test\CountSort\bin\Debug\net6.0\CountSort.deps.json
+C:\Users\maslo\Desktop\test\CountSort\bin\Debug\net6.0\CountSort.runtimeconfig.json
+C:\Users\maslo\Desktop\test\CountSort\bin\Debug\net6.0\CountSort.dll
+C:\Users\maslo\Desktop\test\CountSort\bin\Debug\net6.0\CountSort.pdb
+C:\Users\maslo\Desktop\test\CountSort\obj\Debug\net6.0\CountSort.dll
+C:\Users\maslo\Desktop\test\CountSort\obj\Debug\net6.0\refint\CountSort.dll
+C:\Users\maslo\Desktop\test\CountSort\obj\Debug\net6.0\CountSort.pdb
+C:\Users\maslo\Desktop\test\CountSort\obj\Debug\net6.0\CountSort.genruntimeconfig.cache
+C:\Users\maslo\Desktop\test\CountSort\obj\Debug\net6.0\ref\CountSort.dll
